@@ -1,0 +1,32 @@
+{
+  "name": "google-pay-web-integration",
+  "version": "1.0.0",
+  "description": "Sample app for integrating GPay with Payment Request Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhankumar028/google-pay-web-integration.git"
+  },
+  "keywords": [
+    "Web",
+    "Payment",
+    "Request",
+    "Api",
+    "GPay",
+    "in",
+    "web"
+  ],
+  "author": "Madhankumar J <madhankumar028@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madhankumar028/google-pay-web-integration/issues"
+  },
+  "homepage": "https://github.com/madhankumar028/google-pay-web-integration#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
